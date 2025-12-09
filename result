@@ -1,0 +1,5 @@
+Model Results:
+- Training Accuracy: 94.2%
+- Validation Accuracy: 91.8%
+- Test Accuracy: 90.5%
+- F1-Score: 0.89
