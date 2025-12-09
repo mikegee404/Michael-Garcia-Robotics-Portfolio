@@ -1,0 +1,42 @@
+# Core Python Data Science Stack
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning (choose based on project needs)
+tensorflow
+tensorflow-io-gcs-filesystem
+# OR
+# torch
+# torchvision
+
+# NLP
+nltk
+spacy
+transformers
+sentencepiece
+
+# Computer Vision (if using any image tasks)
+opencv-python
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Model Saving / Deployment
+joblib
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
+# Utilities
+tqdm
+requests
+python-dotenv
+
+
